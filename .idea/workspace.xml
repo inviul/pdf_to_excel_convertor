@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3ea0429-2991-47a5-8d77-a45057a15924" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pdf_to_excel_convertor" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CC0hUJRTfjiTZAVSKGAwXoiDp7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jars/aspose-pdf-22.6-jdk16.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pdf_to_excel_convertor [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" value="-Dsrsdir=D:\JavaProject -Ddstdir=D:\JavaProject" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.pdf_to_excel_convertor [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ea0429-2991-47a5-8d77-a45057a15924" name="Default Changelist" comment="" />
+      <created>1658291379108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658291379108</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="115" key="#Project_Structure" timestamp="1658294832434">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="447" y="115" key="#Project_Structure/0.0.1707.912@0.0.1707.912" timestamp="1658294832434" />
+    <state x="310" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658298592636">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="310" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.912@0.0.1707.912" timestamp="1658298592636" />
+    <state x="562" y="198" key="FileChooserDialogImpl" timestamp="1658299897326">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="562" y="198" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1658299897326" />
+    <state width="1664" height="239" key="GridCell.Tab.0.bottom" timestamp="1658299944376">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1664" height="239" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1658299944376" />
+    <state width="1664" height="239" key="GridCell.Tab.0.center" timestamp="1658299944375">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1664" height="239" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1658299944375" />
+    <state width="1664" height="239" key="GridCell.Tab.0.left" timestamp="1658299944375">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1664" height="239" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1658299944375" />
+    <state width="1664" height="239" key="GridCell.Tab.0.right" timestamp="1658299944375">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1664" height="239" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1658299944375" />
+    <state x="552" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1658293139834">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="552" y="281" key="com.intellij.ide.util.TipDialog/0.0.1707.912@0.0.1707.912" timestamp="1658293139834" />
+    <state x="284" y="69" key="new project wizard" timestamp="1658292276734">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="284" y="69" key="new project wizard/0.0.1707.912@0.0.1707.912" timestamp="1658292276734" />
+  </component>
+</project>

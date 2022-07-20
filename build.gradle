@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+//repositories {
+//    mavenCentral()
+//    flatDir {
+//        dirs 'jars'
+//    }
+//}
+
+dependencies {
+//    implementation name: 'aspose-pdf-22.6-jdk16.jar'
+    implementation fileTree(dir: 'jars', include: '*.jar')
+}
+
+task conversion(type: JavaExec){
+    classpath sourceSets.main.runtimeClasspath
+    main = "com.convertor.runner.Converter"
+    systemProperty "srsdir",System.getProperty("srsdir")
+    systemProperty "dstdir",System.getProperty("dstdir")
+}
